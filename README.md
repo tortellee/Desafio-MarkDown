@@ -6,7 +6,7 @@ Desafio-MarkDown
 
 **Cursos
 ***Escola:Senac Americana SP
--[x]Cursos:Técnico Informática
+-[x]-Cursos:Técnico Informática
 
 ***Escola:Microlins Americana SP
 [x] Cursos: Office Completo
