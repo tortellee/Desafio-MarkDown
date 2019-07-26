@@ -1,12 +1,12 @@
 # Desafio-MarkDown
 Desafio-MarkDown
 
-###Cristiano Tortelli Ferreira de Lima
+# Cristiano Tortelli Ferreira de Lima
 
 
 **Cursos
 ***Escola:Senac Americana SP
--[x]-Cursos:Técnico Informática
+- [x] Cursos:Técnico Informática
 
 ***Escola:Microlins Americana SP
 [x] Cursos: Office Completo
