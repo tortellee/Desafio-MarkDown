@@ -9,8 +9,8 @@ Cursos:
 
 # Redes Sociais, Email.
 
-[Email] (mailto:hoornettmonster@gmail.com)
-[Facebook] (www.facebook.com.br)
-[Instagram] (www.instragram.com)
+*[Email](mailto:hoornettmonster@gmail.com)
+*[Facebook](www.facebook.com.br)
+*[Instagram](www.instragram.com)
 
 
