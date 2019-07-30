@@ -4,11 +4,11 @@
 # ![Cursos](https://dl1.cbsistatic.com/i/2016/07/08/c32c6f41-6b7a-419b-a942-5dfe6eae6ead/bc2e54b5d78919690e384659579b1328/imgingest-1588914539512456519.png) Cursos:
 
 
-![Ti](https://img.informer.com/icons/png/16/3561/3561440.png)Técnico Informática
+![Ti](https://img.informer.com/icons/png/16/3561/3561440.png) Técnico Informática
 
-![Office](https://static.xx.fbcdn.net/images/emoji.php/v9/f33/1/16/2705.png)Office Completo
+![Office](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2eYGSZHuiG4_XwyzmQTE_cuNXKIZrmpDaE0MvOsBjeTctx5v8yg) Office Completo
 
-![Oe](https://static.xx.fbcdn.net/images/emoji.php/v9/f33/1/16/2705.png)Operador de Empilhadeira
+![Oe](https://static.xx.fbcdn.net/images/emoji.php/v9/f33/1/16/2705.png) Operador de Empilhadeira
 
 ---
 
