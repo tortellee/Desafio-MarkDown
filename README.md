@@ -5,12 +5,11 @@ Cursos:
 - [x] Cursos: Office Completo
 - [x] Cursos: Operador de Empilhadeira
 
+![.](http://learncodeonline.in/mascot.png)
+
 #*Americana, SP, Brasil* 
-
-# Redes Sociais, Email.
-
-*[Email](mailto:hoornettmonster@gmail.com)
-*[Facebook](www.facebook.com.br)
-*[Instagram](www.instragram.com)
-
-
+***
+|Redes|Sociais|Email|
+|------|---------|----------|
+|[Email](mailto:hoornettmonster@gmail.com)|[Facebook](www.facebook.com.br)|[Instagram](www.instragram.com)
+         
