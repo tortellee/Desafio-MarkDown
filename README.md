@@ -5,8 +5,8 @@
 
 
 Cursos:
-![..](https://static.xx.fbcdn.net/images/emoji.php/v9/f33/1/16/2705.png)
-Técnico Informática
+
+![..](https://static.xx.fbcdn.net/images/emoji.php/v9/f33/1/16/2705.png)Técnico Informática
 Office Completo
 Operador de Empilhadeira
 
