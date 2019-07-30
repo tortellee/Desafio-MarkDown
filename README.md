@@ -1,4 +1,6 @@
 # ![Nome](http://learncodeonline.in/mascot.png) Cristiano Tortelli Ferreira de Lima.
+# ![Profissão](https://www.quicktransportsolutions.com/images/favicon.ico) Profissão:
+* ![Investidor](https://ratingbitcoin.com/wp-content/uploads/2016/03/3chat-bitcoin.png) Investidor:
 ---
 
 # ![Cursos](https://hscprojects.com/wp-content/uploads/2017/10/book-16-245565.png) Cursos:
