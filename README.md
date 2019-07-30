@@ -8,7 +8,7 @@
 
 ![Office](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2eYGSZHuiG4_XwyzmQTE_cuNXKIZrmpDaE0MvOsBjeTctx5v8yg) Office Completo
 
-![Oe](https://static.xx.fbcdn.net/images/emoji.php/v9/f33/1/16/2705.png) Operador de Empilhadeira
+![Oe](https://i.cashbacksrv.com/quidco_com/p/static/uploads/a/img/merchant/favicons/16/easyterra-car-hire.png?uft=1561388500) Operador de Empilhadeira
 
 ---
 
