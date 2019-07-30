@@ -1,11 +1,11 @@
 # Cristiano Tortelli Ferreira de Lima.
 ![.](http://learncodeonline.in/mascot.png)
 
-![..](https://static.xx.fbcdn.net/images/emoji.php/v9/f33/1/16/2705.png)
+
 
 
 Cursos:
-- [x] Cursos:Técnico Informática
+![..](https://static.xx.fbcdn.net/images/emoji.php/v9/f33/1/16/2705.png) [x] Cursos:Técnico Informática
 - [x] Cursos: Office Completo
 - [x] Cursos: Operador de Empilhadeira
 
