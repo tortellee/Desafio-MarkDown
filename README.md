@@ -1,6 +1,6 @@
 # ![Nome](http://learncodeonline.in/mascot.png) Cristiano Tortelli Ferreira de Lima.
 # ![Profissão](https://www.quicktransportsolutions.com/images/favicon.ico) Profissão:
-* ![Investidor](https://ratingbitcoin.com/wp-content/uploads/2016/03/3chat-bitcoin.png) Investidor:
+* ![Investidor](https://ratingbitcoin.com/wp-content/uploads/2016/03/3chat-bitcoin.png) Investidor
 ---
 
 # ![Cursos](https://hscprojects.com/wp-content/uploads/2017/10/book-16-245565.png) Cursos:
@@ -16,6 +16,5 @@
 ***
 |![Email](http://freedownloadscenter.com/icons/png/32/1670/1670360.png)|![face](https://www.visiblelogic.com/blog/wp-content/uploads/2012/11/facebook_32.png)|![Insta](http://iradex.net/wp-content/uploads/2018/10/instagram-logo.png)|
 |------|---------|----------|
-|[Email](mailto:hoornettmonster@gmail.com)|[Facebook](https://www.facebook.com/tortellee)|[Instagram](https://www.instagram.com/cristiano.tortellii/)
-         
-:house:
+|[Email](mailto:hoornettmonster@gmail.com)|[Facebook](https://www.facebook.com/tortellee)|[Instagram](https://www.instagram.com/cristiano.tortellii/)       
+
